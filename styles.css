@@ -2,4 +2,12 @@
 	background color : purple;
 	width : 200px;
 }
+
+.heading p{
+	font size : 20 px;
+	color : white;
+	padding : 10px;
+	border thickness : 5px;
+	border color : green;
+}
 /* Your CSS Code here. */
