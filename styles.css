@@ -4,10 +4,14 @@
 }
 
 .heading p{
-	font size : 20 px;
 	color : white;
 	padding : 10px;
 	border-left: 5px solid green;
+	border-left-width:5px;
     text-decoration: underline;
+}
+
+#heading p{
+	font-size:16px;
 }
 /* Your CSS Code here. */
